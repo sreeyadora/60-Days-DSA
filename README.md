@@ -59,7 +59,7 @@ Throughout the journey, I will be working through topics such as:
 |-----|-----------------|--------|
 | Day 01 | Concatenation of Array, Running Sum of 1D Array | ✅ |
 | Day 02 | FizzBuzz, Number of Steps to Reduce a Number to Zero, Richest Customer Wealth | ✅ |
-| Day 03 | — | ⬜ |
+| Day 03 | Remove Element, Merge Sorted Array, Middle of the Linked List | ✅ |
 | Day 04 | — | ⬜ |
 | Day 05 | — | ⬜ |
 | Day 06 | — | ⬜ |
