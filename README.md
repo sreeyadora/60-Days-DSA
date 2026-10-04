@@ -135,7 +135,12 @@ Throughout the journey, I will be working through topics such as:
 │   ├── number_of_steps.py
 │   └── richest_customer_wealth.py
 │
+├── ```text
 ├── Day-03/
-│   └── ...
+│   ├── README.md
+│   ├── remove_element.py
+│   ├── merge_sorted_array.py
+│   └── middle_of_the_linked_list.py
+```
 │
 └── README.md
