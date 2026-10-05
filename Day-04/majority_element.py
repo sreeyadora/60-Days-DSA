@@ -1,3 +1,8 @@
+# LeetCode #169 - Majority Element
+# Day 4/60 - Time & Space Complexity
+# Approach: Brute Force / Optimized
+# Time Complexity: Add after choosing your approach
+# Space Complexity: Add after choosing your approach
 class Solution:
     def majorityElement(self, nums: list[int]) -> int:
         candidate = None
