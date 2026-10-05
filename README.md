@@ -141,6 +141,12 @@ Throughout the journey, I will be working through topics such as:
 │   ├── remove_element.py
 │   ├── merge_sorted_array.py
 │   └── middle_of_the_linked_list.py
+├── Day-04/
+│   ├── README.md
+│   ├── two_sum.py
+│   ├── contains_duplicate.py
+│   └── majority_element.py
+└── README.md
 ```
 │
 └── README.md
