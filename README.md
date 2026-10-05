@@ -150,3 +150,15 @@ Throughout the journey, I will be working through topics such as:
 ```
 │
 └── README.md
+
+🌱 My Approach
+
+I aim to understand each problem, start with a straightforward solution, explore optimization, and analyze time and space complexity wherever applicable.
+
+🔗 Profiles
+
+GitHub: https://github.com/sreeyadora
+
+DSA Repository: https://github.com/sreeyadora/60-Days-DSA
+
+Consistency over perfection — learning one problem at a time! 💪
