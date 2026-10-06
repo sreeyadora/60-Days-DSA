@@ -61,7 +61,7 @@ Throughout the journey, I will be working through topics such as:
 | Day 02 | FizzBuzz, Number of Steps to Reduce a Number to Zero, Richest Customer Wealth | ✅ |
 | Day 03 | Remove Element, Merge Sorted Array, Middle of the Linked List | ✅ |
 | Day 04 | Time & Space Complexity, Two Sum, Contains Duplicate, Majority Element | ✅ |
-| Day 05 | — | ⬜ |
+| Day 05 | Hash Maps & Sets: Two Sum, Valid Anagram, Group Anagrams, Top K Frequent Elements | ✅ |
 | Day 06 | — | ⬜ |
 | Day 07 | — | ⬜ |
 | Day 08 | — | ⬜ |
@@ -146,6 +146,12 @@ Throughout the journey, I will be working through topics such as:
 │   ├── two_sum.py
 │   ├── contains_duplicate.py
 │   └── majority_element.py
+├── Day-05/
+│   ├── README.md
+│   ├── two_sum.py
+│   ├── valid_anagram.py
+│   ├── group_anagrams.py
+│   └── top_k_frequent_elements.py
 └── README.md
 ```
 │
