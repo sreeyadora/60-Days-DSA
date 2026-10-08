@@ -62,7 +62,7 @@ Throughout the journey, I will be working through topics such as:
 | Day 03 | Remove Element, Merge Sorted Array, Middle of the Linked List | ✅ |
 | Day 04 | Time & Space Complexity, Two Sum, Contains Duplicate, Majority Element | ✅ |
 | Day 05 | Hash Maps & Sets: Two Sum, Valid Anagram, Group Anagrams, Top K Frequent Elements | ✅ |
-| Day 06 | — | ⬜ |
+| Day 06 | Two Sum II, Valid Palindrome, Move Zeroes — Two Pointers | ✅  | 
 | Day 07 | — | ⬜ |
 | Day 08 | — | ⬜ |
 | Day 09 | — | ⬜ |
@@ -152,6 +152,11 @@ Throughout the journey, I will be working through topics such as:
 │   ├── valid_anagram.py
 │   ├── group_anagrams.py
 │   └── top_k_frequent_elements.py
+├── Day-06/
+│   ├── README.md
+│   ├── two_sum_ii.py
+│   ├── valid_palindrome.py
+│   └── move_zeroes.py
 └── README.md
 ```
 │
