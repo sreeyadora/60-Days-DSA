@@ -64,7 +64,7 @@ Throughout the journey, I will be working through topics such as:
 | Day 05 | Hash Maps & Sets: Two Sum, Valid Anagram, Group Anagrams, Top K Frequent Elements | ✅ |
 | Day 06 | Two Sum II, Valid Palindrome, Move Zeroes — Two Pointers | ✅  | 
 | Day 07 | Squares of a Sorted Array | ✅ |
-| Day 08 | — | ⬜ |
+| Day 08 | | Day 08 | 3Sum (#15), 3Sum Closest (#16) — Sorting + Two Pointers | ✅ |
 | Day 09 | — | ⬜ |
 | Day 10 | — | ⬜ |
 | Day 11 | — | ⬜ |
@@ -160,6 +160,10 @@ Throughout the journey, I will be working through topics such as:
 ├── Day-07/
 │   ├── README.md
 │   └── squares_of_a_sorted_array.py
+├── Day-08/
+│   ├── README.md
+│   ├── three_sum.py
+│   └── three_sum_closest.py
 └── README.md
 ```
 │
