@@ -66,7 +66,7 @@ Throughout the journey, I will be working through topics such as:
 | Day 07 | Squares of a Sorted Array | ✅ |
 | Day 08 | 3Sum (#15), 3Sum Closest (#16) — Sorting + Two Pointers | ✅ |
 | Day 09 | Container With Most Water (#11) — Two Pointers | ✅ |
-| Day 10 | — | ⬜ |
+| Day 10 | Remove Duplicates from Sorted Array (#26) | ✅ |
 | Day 11 | — | ⬜ |
 | Day 12 | — | ⬜ |
 | Day 13 | — | ⬜ |
@@ -167,6 +167,9 @@ Throughout the journey, I will be working through topics such as:
 ├── Day-09/
 │   ├── README.md
 │   └── container_with_most_water.py
+├── Day-10/
+│   ├── README.md
+│   └── remove_duplicates_from_sorted_array.py
 └── README.md
 ```
 │
