@@ -67,7 +67,7 @@ Throughout the journey, I will be working through topics such as:
 | Day 08 | 3Sum (#15), 3Sum Closest (#16) — Sorting + Two Pointers | ✅ |
 | Day 09 | Container With Most Water (#11) — Two Pointers | ✅ |
 | Day 10 | Remove Duplicates from Sorted Array (#26) | ✅ |
-| Day 11 | — | ⬜ |
+| Day 11 | Triplets with Smaller Sum — Sorting + Two Pointers| ✅ |
 | Day 12 | — | ⬜ |
 | Day 13 | — | ⬜ |
 | Day 14 | — | ⬜ |
@@ -170,6 +170,9 @@ Throughout the journey, I will be working through topics such as:
 ├── Day-10/
 │   ├── README.md
 │   └── remove_duplicates_from_sorted_array.py
+├── Day-11/
+│   ├── README.md
+│   └── triplets_with_smaller_sum.py
 └── README.md
 ```
 │
